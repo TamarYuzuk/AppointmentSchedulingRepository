@@ -1,0 +1,333 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|c:\\users\\this_user\\documents\\\u05EA\u05DE\u05E8\\appointmentscheduling\\appointmentscheduling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|solutionrelative:appointmentscheduling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|c:\\users\\this_user\\documents\\\u05EA\u05DE\u05E8\\appointmentscheduling\\appointmentscheduling\\settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|solutionrelative:appointmentscheduling\\settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|c:\\users\\this_user\\documents\\\u05EA\u05DE\u05E8\\appointmentscheduling\\appointmentscheduling\\repositories\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|solutionrelative:appointmentscheduling\\repositories\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|c:\\users\\this_user\\documents\\\u05EA\u05DE\u05E8\\appointmentscheduling\\appointmentscheduling\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|solutionrelative:appointmentscheduling\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|c:\\users\\this_user\\documents\\\u05EA\u05DE\u05E8\\appointmentscheduling\\appointmentscheduling\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|solutionrelative:appointmentscheduling\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|c:\\users\\this_user\\documents\\\u05EA\u05DE\u05E8\\appointmentscheduling\\appointmentscheduling\\handlers\\getappointmentshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|solutionrelative:appointmentscheduling\\handlers\\getappointmentshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|c:\\users\\this_user\\documents\\\u05EA\u05DE\u05E8\\appointmentscheduling\\appointmentscheduling\\queries\\getappointmentsbydateandservicequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|solutionrelative:appointmentscheduling\\queries\\getappointmentsbydateandservicequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|c:\\users\\this_user\\documents\\\u05EA\u05DE\u05E8\\appointmentscheduling\\appointmentscheduling\\queries\\getappointmentsbyclientquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|solutionrelative:appointmentscheduling\\queries\\getappointmentsbyclientquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|c:\\users\\this_user\\documents\\\u05EA\u05DE\u05E8\\appointmentscheduling\\appointmentscheduling\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|solutionrelative:appointmentscheduling\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|c:\\users\\this_user\\documents\\\u05EA\u05DE\u05E8\\appointmentscheduling\\appointmentscheduling\\handlers\\getappointmentsbyclienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|solutionrelative:appointmentscheduling\\handlers\\getappointmentsbyclienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|c:\\users\\this_user\\documents\\\u05EA\u05DE\u05E8\\appointmentscheduling\\appointmentscheduling\\handlers\\deleteappointmenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|solutionrelative:appointmentscheduling\\handlers\\deleteappointmenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|c:\\users\\this_user\\documents\\\u05EA\u05DE\u05E8\\appointmentscheduling\\appointmentscheduling\\handlers\\createappointmenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|solutionrelative:appointmentscheduling\\handlers\\createappointmenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|c:\\users\\this_user\\documents\\\u05EA\u05DE\u05E8\\appointmentscheduling\\appointmentscheduling\\commands\\updateappointmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|solutionrelative:appointmentscheduling\\commands\\updateappointmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|c:\\users\\this_user\\documents\\\u05EA\u05DE\u05E8\\appointmentscheduling\\appointmentscheduling\\commands\\createappointmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|solutionrelative:appointmentscheduling\\commands\\createappointmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|c:\\users\\this_user\\documents\\\u05EA\u05DE\u05E8\\appointmentscheduling\\appointmentscheduling\\handlers\\getappointmentsbydateandservicehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|solutionrelative:appointmentscheduling\\handlers\\getappointmentsbydateandservicehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|c:\\users\\this_user\\documents\\\u05EA\u05DE\u05E8\\appointmentscheduling\\appointmentscheduling\\handlers\\updateappointmenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|solutionrelative:appointmentscheduling\\handlers\\updateappointmenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|c:\\users\\this_user\\documents\\\u05EA\u05DE\u05E8\\appointmentscheduling\\appointmentscheduling\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CBC6A11F-2F03-447A-B830-26E1BC7C3956}|AppointmentScheduling\\AppointmentScheduling.csproj|solutionrelative:appointmentscheduling\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetAppointmentsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\Handlers\\GetAppointmentsHandler.cs",
+              "RelativeDocumentMoniker": "AppointmentScheduling\\Handlers\\GetAppointmentsHandler.cs",
+              "ToolTip": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\Handlers\\GetAppointmentsHandler.cs",
+              "RelativeToolTip": "AppointmentScheduling\\Handlers\\GetAppointmentsHandler.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAEwBEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T20:08:03.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\Repositories\\IAppointmentRepository.cs",
+              "RelativeDocumentMoniker": "AppointmentScheduling\\Repositories\\IAppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\Repositories\\IAppointmentRepository.cs",
+              "RelativeToolTip": "AppointmentScheduling\\Repositories\\IAppointmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T20:09:22.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "AppointmentScheduling\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "AppointmentScheduling\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAawDAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T20:10:10.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\Repositories\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "AppointmentScheduling\\Repositories\\AppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\Repositories\\AppointmentRepository.cs",
+              "RelativeToolTip": "AppointmentScheduling\\Repositories\\AppointmentRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T19:58:28.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MongoDbSettings.cs",
+              "DocumentMoniker": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\Settings\\MongoDbSettings.cs",
+              "RelativeDocumentMoniker": "AppointmentScheduling\\Settings\\MongoDbSettings.cs",
+              "ToolTip": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\Settings\\MongoDbSettings.cs",
+              "RelativeToolTip": "AppointmentScheduling\\Settings\\MongoDbSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T19:55:07.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\Program.cs",
+              "RelativeDocumentMoniker": "AppointmentScheduling\\Program.cs",
+              "ToolTip": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\Program.cs",
+              "RelativeToolTip": "AppointmentScheduling\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwCkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T19:50:25.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAppointmentsByDateAndServiceQuery.cs",
+              "DocumentMoniker": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\Queries\\GetAppointmentsByDateAndServiceQuery.cs",
+              "RelativeDocumentMoniker": "AppointmentScheduling\\Queries\\GetAppointmentsByDateAndServiceQuery.cs",
+              "ToolTip": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\Queries\\GetAppointmentsByDateAndServiceQuery.cs",
+              "RelativeToolTip": "AppointmentScheduling\\Queries\\GetAppointmentsByDateAndServiceQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:51:41.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetAppointmentsByClientQuery.cs",
+              "DocumentMoniker": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\Queries\\GetAppointmentsByClientQuery.cs",
+              "RelativeDocumentMoniker": "AppointmentScheduling\\Queries\\GetAppointmentsByClientQuery.cs",
+              "ToolTip": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\Queries\\GetAppointmentsByClientQuery.cs",
+              "RelativeToolTip": "AppointmentScheduling\\Queries\\GetAppointmentsByClientQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:51:08.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "AppointmentScheduling\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\Models\\Appointment.cs",
+              "RelativeToolTip": "AppointmentScheduling\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T20:04:41.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAppointmentsByClientHandler.cs",
+              "DocumentMoniker": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\Handlers\\GetAppointmentsByClientHandler.cs",
+              "RelativeDocumentMoniker": "AppointmentScheduling\\Handlers\\GetAppointmentsByClientHandler.cs",
+              "ToolTip": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\Handlers\\GetAppointmentsByClientHandler.cs",
+              "RelativeToolTip": "AppointmentScheduling\\Handlers\\GetAppointmentsByClientHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:53:58.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteAppointmentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\Handlers\\DeleteAppointmentHandler.cs",
+              "RelativeDocumentMoniker": "AppointmentScheduling\\Handlers\\DeleteAppointmentHandler.cs",
+              "ToolTip": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\Handlers\\DeleteAppointmentHandler.cs",
+              "RelativeToolTip": "AppointmentScheduling\\Handlers\\DeleteAppointmentHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:54:12.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateAppointmentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\Handlers\\CreateAppointmentHandler.cs",
+              "RelativeDocumentMoniker": "AppointmentScheduling\\Handlers\\CreateAppointmentHandler.cs",
+              "ToolTip": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\Handlers\\CreateAppointmentHandler.cs",
+              "RelativeToolTip": "AppointmentScheduling\\Handlers\\CreateAppointmentHandler.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T20:07:28.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateAppointmentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\Commands\\UpdateAppointmentCommand.cs",
+              "RelativeDocumentMoniker": "AppointmentScheduling\\Commands\\UpdateAppointmentCommand.cs",
+              "ToolTip": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\Commands\\UpdateAppointmentCommand.cs",
+              "RelativeToolTip": "AppointmentScheduling\\Commands\\UpdateAppointmentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:50:16.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateAppointmentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\Commands\\CreateAppointmentCommand.cs",
+              "RelativeDocumentMoniker": "AppointmentScheduling\\Commands\\CreateAppointmentCommand.cs",
+              "ToolTip": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\Commands\\CreateAppointmentCommand.cs",
+              "RelativeToolTip": "AppointmentScheduling\\Commands\\CreateAppointmentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T20:06:05.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetAppointmentsByDateAndServiceHandler.cs",
+              "DocumentMoniker": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\Handlers\\GetAppointmentsByDateAndServiceHandler.cs",
+              "RelativeDocumentMoniker": "AppointmentScheduling\\Handlers\\GetAppointmentsByDateAndServiceHandler.cs",
+              "ToolTip": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\Handlers\\GetAppointmentsByDateAndServiceHandler.cs",
+              "RelativeToolTip": "AppointmentScheduling\\Handlers\\GetAppointmentsByDateAndServiceHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:53:43.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateAppointmentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\Handlers\\UpdateAppointmentHandler.cs",
+              "RelativeDocumentMoniker": "AppointmentScheduling\\Handlers\\UpdateAppointmentHandler.cs",
+              "ToolTip": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\Handlers\\UpdateAppointmentHandler.cs",
+              "RelativeToolTip": "AppointmentScheduling\\Handlers\\UpdateAppointmentHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:52:42.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\appsettings.json",
+              "RelativeDocumentMoniker": "AppointmentScheduling\\appsettings.json",
+              "ToolTip": "C:\\Users\\This_user\\Documents\\\u05EA\u05DE\u05E8\\AppointmentScheduling\\AppointmentScheduling\\appsettings.json",
+              "RelativeToolTip": "AppointmentScheduling\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-11T19:43:52.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
