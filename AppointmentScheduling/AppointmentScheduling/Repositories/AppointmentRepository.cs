@@ -12,9 +12,9 @@ namespace AppointmentScheduling.Repositories
         public AppointmentRepository(IOptions<MongoDbSettings> settings, IMongoClient client)
         {
             var database = client.GetDatabase(settings.Value.DatabaseName);
-            _collection = database.GetCollection<Appointment>("Appointments");
+            _collection = database.GetCollection<Appointment>(settings.Value.AppointmentsCollection);
         }
-
+            
         public async Task AddAsync(Appointment appointment) =>
             await _collection.InsertOneAsync(appointment);
 

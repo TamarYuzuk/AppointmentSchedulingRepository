@@ -1041,11 +1041,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\This_user\\Documents\\תמר\\AppointmentScheduling\\AppointmentScheduling\\AppointmentScheduling.csproj",
+      "projectUniqueName": "C:\\Users\\This_user\\Documents\\תמר\\AppointmentSchedulingRepository\\AppointmentScheduling\\AppointmentScheduling\\AppointmentScheduling.csproj",
       "projectName": "AppointmentScheduling",
-      "projectPath": "C:\\Users\\This_user\\Documents\\תמר\\AppointmentScheduling\\AppointmentScheduling\\AppointmentScheduling.csproj",
+      "projectPath": "C:\\Users\\This_user\\Documents\\תמר\\AppointmentSchedulingRepository\\AppointmentScheduling\\AppointmentScheduling\\AppointmentScheduling.csproj",
       "packagesPath": "C:\\Users\\This_user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\This_user\\Documents\\תמר\\AppointmentScheduling\\AppointmentScheduling\\obj\\",
+      "outputPath": "C:\\Users\\This_user\\Documents\\תמר\\AppointmentSchedulingRepository\\AppointmentScheduling\\AppointmentScheduling\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1113,7 +1113,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
